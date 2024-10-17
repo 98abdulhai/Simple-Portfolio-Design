@@ -1,0 +1,42 @@
+/* navbar icon */
+.nav-item a:hover{
+    color: white;
+    border-radius: 0 4px;
+    background-color: #a42323;
+}
+  
+.icon ul li a{
+   margin-left: 10px;
+}
+
+/* home profile */
+
+.home-body h4{
+    padding-top: 210px;
+}
+
+.profile-img img{
+    height: 500px;
+    width: 350px;
+    box-shadow: 0 4px 8px 0 rgba(4, 4, 4, 0.937), 0 6px 20px 0 rgb(252, 2, 2);
+}
+
+/* about us */
+.clearfix{
+    display: table;
+    content: "";
+    clear: both;
+}
+.profile-img{
+    float: left;
+}
+.main-content{
+    float: right;
+}
+
+.main-content-nav{
+    float: left;
+}
+.left-side{
+    float: left;
+}
